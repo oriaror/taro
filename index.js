@@ -23,7 +23,6 @@ resultDiv.appendChild(taroDescription)
 
 button.onclick = () => {
   let val = document.getElementById('date');
-  console.log(val.value)
   for (const taro of taroCards) {
     if (taro.isThisTaro(val.value)) {
       taroImg.src = taro.img
