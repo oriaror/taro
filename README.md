@@ -1,1 +1,1 @@
-https://oriaror.github.io/taro_cyber_cringe/ 
+https://oriaror.github.io/taro/
